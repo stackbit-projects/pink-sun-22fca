@@ -85,3 +85,4 @@ exclude:
   - netlify.toml
   - stackbit-build.sh
   - stackbit-pull.js
+domain: 'https://pink-sun-22fca.netlify.app'
