@@ -23,17 +23,6 @@ header:
       url: /blog
       style: link
       has_subnav: false
-    - label: Sample Pages
-      url: '#'
-      style: link
-      has_subnav: true
-      subnav_links:
-        - label: Overview
-          url: /overview
-          style: link
-        - label: Showcase
-          url: /showcase
-          style: link
 footer:
   content: >-
     &copy; Stackbit. All rights reserved. This Jamstack site was created with <a
