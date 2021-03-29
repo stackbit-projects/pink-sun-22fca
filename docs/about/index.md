@@ -42,4 +42,4 @@ With Catalyst Blockchain Platform, creating or managing entities is just a few c
 
 ***
 
-Here are the articles in this section:
+See more:
