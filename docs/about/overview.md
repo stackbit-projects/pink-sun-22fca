@@ -19,7 +19,8 @@ layout: docs
 
 There are two types of callouts available in this theme, **note** and **important**. To add a callout to your documentation simply add the following `html` code with class `important` or `note`. Like in the example [bellow.](FAQ)
 
-### ![](/images/8435892ccee5c3152ccd753703a35ab2.jpg)HTML example
+### ![](/images/8435892ccee5c3152ccd753703a35ab2.jpg)
+HTML example
 
 Copy the code and modify these blocks according to your needs.
 
