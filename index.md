@@ -6,8 +6,7 @@ sections:
     title: Catalyst Blockchain Platform
     image: images/5.jpg
     content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+      You can find here the best documentation in the world.
     actions:
       - label: Get Started
         url: /docs
