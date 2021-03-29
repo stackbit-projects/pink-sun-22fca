@@ -5,8 +5,6 @@ excerpt: >-
 layout: docs
 ---
 
-# Introduction
-
 ## **What is Blockchain**
 
 Blockchain is a distributed network where every party on the network shares an identical copy of the database. Blockchain is essentially an immutable ledger which means that once data has been added to the Blockchain, it can never be deleted or tampered.
