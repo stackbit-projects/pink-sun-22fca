@@ -34,10 +34,6 @@ header:
         - label: Showcase
           url: /showcase
           style: link
-    - label: Style Guide
-      url: /style-guide
-      style: link
-      has_subnav: false
     - label: GitHub
       url: 'https://github.com/'
       style: primary
